@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Cool-Store/static/css/main.a670eb0d.chunk.css",
+    "main.js": "/Cool-Store/static/js/main.21764ea7.chunk.js",
+    "main.js.map": "/Cool-Store/static/js/main.21764ea7.chunk.js.map",
+    "runtime-main.js": "/Cool-Store/static/js/runtime-main.aeab4668.js",
+    "runtime-main.js.map": "/Cool-Store/static/js/runtime-main.aeab4668.js.map",
+    "static/css/2.847439e0.chunk.css": "/Cool-Store/static/css/2.847439e0.chunk.css",
+    "static/js/2.44fcf44b.chunk.js": "/Cool-Store/static/js/2.44fcf44b.chunk.js",
+    "static/js/2.44fcf44b.chunk.js.map": "/Cool-Store/static/js/2.44fcf44b.chunk.js.map",
+    "index.html": "/Cool-Store/index.html",
+    "static/css/2.847439e0.chunk.css.map": "/Cool-Store/static/css/2.847439e0.chunk.css.map",
+    "static/css/main.a670eb0d.chunk.css.map": "/Cool-Store/static/css/main.a670eb0d.chunk.css.map",
+    "static/js/2.44fcf44b.chunk.js.LICENSE.txt": "/Cool-Store/static/js/2.44fcf44b.chunk.js.LICENSE.txt",
+    "static/media/hero_styles.scss": "/Cool-Store/static/media/studio-media-unsplash .893e3149.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aeab4668.js",
+    "static/css/2.847439e0.chunk.css",
+    "static/js/2.44fcf44b.chunk.js",
+    "static/css/main.a670eb0d.chunk.css",
+    "static/js/main.21764ea7.chunk.js"
+  ]
+}
