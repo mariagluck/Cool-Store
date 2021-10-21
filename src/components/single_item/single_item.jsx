@@ -29,11 +29,11 @@ const SingleProduct = ({ match, history }) => {
   const { imageUrl, title, price, description } = product;
   return (
     <Layout>
-      <div className='single-product-container'>
-        <div className='product-image'>
-          <img src={imageUrl} alt='product' />
+      <div className='single-item-container'>
+        <div className='item-image'>
+          <img src={imageUrl} alt='product'  />
         </div>
-        <div className='product-details'>
+        <div className='item-details'>
           <div className='name-price'>
             <h3>{title}</h3>
             <p>${price}</p>

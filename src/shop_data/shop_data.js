@@ -1,3 +1,7 @@
+import image3 from '../images/image3.jpeg';
+import image4 from '../images/image4.jpeg';
+import image5 from '../images/image5.jpeg';
+
 export const shopData = [
   {
     id: 1,
@@ -57,10 +61,10 @@ export const shopData = [
     },
     {
       id: 8,
-      title: 'Alice’s Adventures in..',
-      author: 'Lewis Carroll & Yayoi Kusama',
-      description: 'With this children’s book you can dive into the worlds of Alice in Wonderland and Yayoi Kusama at the same time and see that both are similar. It not only delights my five-year-old son, but also me',
-      imageUrl: 'https://cdn.sanity.io/images/cxgd3urn/production/6465509ddead70c48bf002dad021a52fbd0f9757-1307x1600.jpg?w=1920&h=2350&fit=crop&auto=format',
+      title: 'Yayoi Kusama',
+      author: 'Yayoi Kusama',
+      description: 'Yayoi Kusama ',
+      imageUrl: image4,
       price: 28,
     },
     {
@@ -68,7 +72,7 @@ export const shopData = [
       title: 'Women, Race & Class',
       author: 'Angela Y. Davis',
       description: 'Ranging from the age of slavery to contemporary injustices, this groundbreaking history of race, gender and class inequality by the radical political activist Angela Davis offers an alternative view of female struggles for liberation.',
-      imageUrl: 'https://assets.thalia.media/img/artikel/29a645ce01b149421410743c5981ab34a5af7fa1-00-00.jpeg',
+      imageUrl: image3,
       price: 28,
     },
     {
@@ -76,7 +80,7 @@ export const shopData = [
       title: 'Alice’s Adventures in..',
       author: 'Lewis Carroll & Yayoi Kusama',
       description: 'With this children’s book you can dive into the worlds of Alice in Wonderland and Yayoi Kusama at the same time and see that both are similar. It not only delights my five-year-old son, but also me',
-      imageUrl: 'https://cdn.sanity.io/images/cxgd3urn/production/6465509ddead70c48bf002dad021a52fbd0f9757-1307x1600.jpg?w=1920&h=2350&fit=crop&auto=format',
+      imageUrl: image5,
       price: 28,
     },
   ];
