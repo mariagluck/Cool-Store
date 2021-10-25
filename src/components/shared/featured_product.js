@@ -1,4 +1,5 @@
 import React from 'react';
+import { withRouter } from 'react-router-dom';
 import './featured_product_styles.scss';
 
 const FeaturedProduct = (product) => {
@@ -6,7 +7,7 @@ const FeaturedProduct = (product) => {
   // const product = { title, author, imageUrl, price, id, description };
   return (
     <div className='featured-product'>
-      <div className='featured-image' onClick={() => history.push(`/product/${id}`)}>
+      <div className='featured-image' onClick={() => history.push(`/item/${id}`)}>
         <img src={imageUrl} alt='product' className='imageProduct' />
         <p class="is-size-7">{author}</p>
       </div>
@@ -19,4 +20,4 @@ const FeaturedProduct = (product) => {
   );
 }
 
-export default FeaturedProduct;
+export default withRouter(FeaturedProduct);
