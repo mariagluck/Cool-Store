@@ -1,3 +1,8 @@
+## COOL STORE
+--------------
+
+## This project is currently on going in development. It is a fake book store with users registration and login, ecommerce, cart, blog,...
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
