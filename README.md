@@ -1,7 +1,7 @@
 ## COOL STORE
 --------------
 
-## This project is currently on going in development. It is a fake book store with users registration and login, ecommerce, cart, blog,...
+## This project is currently on going in development. It is a fake-example book store with users registration and login, ecommerce, cart, blog,...
 
 # Getting Started with Create React App
 
